@@ -37,7 +37,6 @@ This repository uses a variety of popular Python libraries for data analysis and
 - SciPy: For scientific and statistical computations
 - Scikit-learn: For machine learning algorithms (if applicable)
 - Jupyter Notebooks: For interactive analysis and documentation
-- SQLAlchemy: For database connections and querying
 
 Additionally, some scripts may make use of specialized libraries based on the dataset (e.g., nltk for text analysis, statsmodels for statistical modeling).
 
