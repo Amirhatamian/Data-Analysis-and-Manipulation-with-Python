@@ -38,7 +38,7 @@ This repository uses a variety of popular Python libraries for data analysis and
 - Scikit-learn: For machine learning algorithms (if applicable)
 - Jupyter Notebooks: For interactive analysis and documentation
 
-Additionally, some scripts may make use of specialized libraries based on the dataset (e.g., nltk for text analysis, statsmodels for statistical modeling).
+Additionally, some scripts may make use of specialized libraries based on the dataset (e.g., geopandas for geographic data, statsmodels for statistical modeling).
 
 Features
 --------
