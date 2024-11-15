@@ -55,7 +55,7 @@ Usage
 To get started with the repository, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/data-analysis-manipulation-python.git
+   git clone https://github.com/Amirhatamian/data-analysis-manipulation-python.git
    cd data-analysis-manipulation-python
 
 2. Install the required dependencies:
