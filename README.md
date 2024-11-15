@@ -1,4 +1,4 @@
-##Data Analysis and Manipulation with Python
+Data Analysis and Manipulation with Python
 ==========================================
 
 This repository provides a collection of Python scripts and notebooks for performing data analysis, manipulation, and visualization tasks. It demonstrates how to clean, transform, analyze, and visualize datasets using powerful Python libraries.
