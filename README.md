@@ -1,4 +1,4 @@
-#Data Analysis and Manipulation with Python
+##Data Analysis and Manipulation with Python
 ==========================================
 
 This repository provides a collection of Python scripts and notebooks for performing data analysis, manipulation, and visualization tasks. It demonstrates how to clean, transform, analyze, and visualize datasets using powerful Python libraries.
@@ -97,5 +97,5 @@ Please ensure that all code is well-documented and that any new features include
 
 License
 -------
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the Kaggle License. See the LICENSE file for more details.
 
